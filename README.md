@@ -1,6 +1,8 @@
-# BDS Skin Modifier
+
 
 <p align="center">
+  <strong>BDS Skin Modifier</strong>
+  <br />
   <em>百度输入法 BDS 皮肤修改工具 — 键位调整 · 样式修改 · 批量处理</em>
 </p>
 
