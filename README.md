@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2328-emoji.svg" width="64" />
-</p>
-
-<h1 align="center">BDS Skin Modifier</h1>
+# BDS Skin Modifier
 
 <p align="center">
   <em>百度输入法 BDS 皮肤修改工具 — 键位调整 · 样式修改 · 批量处理</em>
